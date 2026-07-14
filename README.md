@@ -1,33 +1,58 @@
-# Netflix Analytics Dashboard
+#  Netflix Analytics Dashboard
 
-## Overview
-This project showcases an interactive Power BI dashboard built using a Netflix dataset. The dashboard provides insights into content trends, watch hours, genre distribution, ratings, and regional viewing patterns.
+##  Project Overview
 
-## Features
+This project showcases an interactive **Netflix Analytics Dashboard** developed using **Power BI**. The dashboard provides insights into Netflix content, watch hours, ratings, genres, and regional trends through interactive visualizations.
 
-- Interactive KPI Cards
-- Genre Analysis
-- Watch Hours Analysis
-- Ratings Dashboard
-- Regional Content Map
-- Dynamic Filters and Slicers
+---
 
-## Tools Used
+##  Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## Skills Demonstrated
+---
 
+##  Skills Demonstrated
+
+- Data Analysis
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Dashboard Development
+- Dashboard Design
 - Data Visualization
 - Business Intelligence
 - KPI Reporting
 
-## Dashboard Preview
+---
 
+##  Dashboard Preview
+
+### Dashboard Page 1
+
+![Dashboard Page 1](dashboard%20pg%201.png)
+
+### Dashboard Page 2
+
+![Dashboard Page 2](dashboard%20pg%202.png)
+
+---
+
+##  Key Insights
+
+- Content distribution across genres
+- Watch hours analysis
+- Regional content trends
+- Ratings analysis
+- Interactive filters and slicers
+- KPI reporting
+
+---
+
+##  Created By
+
+**Janani S.K.**
+
+Aspiring AI & Data Science Professional
 See the uploaded dashboard screenshots in this repository.
